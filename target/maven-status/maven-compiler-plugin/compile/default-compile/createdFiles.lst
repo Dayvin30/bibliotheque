@@ -1,0 +1,15 @@
+com\octest\bdd\functionsBDD.class
+com\octest\servlet\Emprunt.class
+com\octest\servlet\EmprunterForm.class
+com\octest\servlet\Index.class
+com\octest\beans\Livre.class
+com\octest\servlet\Connexion.class
+com\octest\servlet\Emprunter.class
+com\octest\servlet\Statistique.class
+com\octest\beans\Emprunt.class
+com\octest\servlet\Prolonger.class
+com\octest\beans\nbLivre.class
+com\octest\beans\Exemplaire.class
+com\octest\servlet\Deconnexion.class
+com\octest\servlet\Accueil.class
+com\octest\servlet\Rechercher.class
